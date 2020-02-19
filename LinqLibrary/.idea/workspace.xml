@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6a07e8e9-e6c8-4040-a978-32dec66a0d62" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="autoscrollToSource" value="true" />
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Y2XuhPQT0f6JKFAbgrUosjKEMO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/extensions" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="java" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="LinqLibrary" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6a07e8e9-e6c8-4040-a978-32dec66a0d62" name="Default Changelist" comment="" />
+      <created>1582141886680</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582141886680</updated>
+      <workItem from="1582141890254" duration="4916000" />
+      <workItem from="1582146821332" duration="1751000" />
+      <workItem from="1582148668379" duration="21000" />
+      <workItem from="1582148923808" duration="210000" />
+      <workItem from="1582149147288" duration="444000" />
+      <workItem from="1582149626855" duration="171000" />
+      <workItem from="1582149812827" duration="78000" />
+      <workItem from="1582149905303" duration="779000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="768" y="267" width="374" height="578" key="#com.intellij.ide.util.MemberChooser" timestamp="1582150215631">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="768" y="267" width="374" height="578" key="#com.intellij.ide.util.MemberChooser/0.30.1920.1050@0.30.1920.1050" timestamp="1582150215631" />
+    <state x="683" y="294" width="543" height="525" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1582149717885">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="683" y="294" width="543" height="525" key="#com.intellij.ide.util.TreeClassChooserDialog/0.30.1920.1050@0.30.1920.1050" timestamp="1582149717885" />
+    <state x="748" y="416" width="423" height="290" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1582150051061">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="748" y="416" width="423" height="290" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.30.1920.1050@0.30.1920.1050" timestamp="1582150051061" />
+    <state x="693" y="304" width="524" height="504" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1582147542930">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="693" y="304" width="524" height="504" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.30.1920.1050@0.30.1920.1050" timestamp="1582147542930" />
+    <state width="1874" height="276" key="GridCell.Tab.0.bottom" timestamp="1582150683789">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1874" height="276" key="GridCell.Tab.0.bottom/0.30.1920.1050@0.30.1920.1050" timestamp="1582150683789" />
+    <state width="1874" height="276" key="GridCell.Tab.0.center" timestamp="1582150683788">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1874" height="276" key="GridCell.Tab.0.center/0.30.1920.1050@0.30.1920.1050" timestamp="1582150683788" />
+    <state width="1874" height="276" key="GridCell.Tab.0.left" timestamp="1582150683788">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1874" height="276" key="GridCell.Tab.0.left/0.30.1920.1050@0.30.1920.1050" timestamp="1582150683788" />
+    <state width="1874" height="276" key="GridCell.Tab.0.right" timestamp="1582150683788">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1874" height="276" key="GridCell.Tab.0.right/0.30.1920.1050@0.30.1920.1050" timestamp="1582150683788" />
+    <state width="1874" height="341" key="GridCell.Tab.1.bottom" timestamp="1582146807096">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1874" height="341" key="GridCell.Tab.1.bottom/0.30.1920.1050@0.30.1920.1050" timestamp="1582146807096" />
+    <state width="1874" height="341" key="GridCell.Tab.1.center" timestamp="1582146807096">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1874" height="341" key="GridCell.Tab.1.center/0.30.1920.1050@0.30.1920.1050" timestamp="1582146807096" />
+    <state width="1874" height="341" key="GridCell.Tab.1.left" timestamp="1582146807096">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1874" height="341" key="GridCell.Tab.1.left/0.30.1920.1050@0.30.1920.1050" timestamp="1582146807096" />
+    <state width="1874" height="341" key="GridCell.Tab.1.right" timestamp="1582146807096">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1874" height="341" key="GridCell.Tab.1.right/0.30.1920.1050@0.30.1920.1050" timestamp="1582146807096" />
+    <state x="493" y="213" width="924" height="687" key="Maven.ArtifactSearchDialog" timestamp="1582147628434">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="493" y="213" width="924" height="687" key="Maven.ArtifactSearchDialog/0.30.1920.1050@0.30.1920.1050" timestamp="1582147628434" />
+    <state x="464" y="190" width="992" height="733" key="SettingsEditor" timestamp="1582149889790">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="464" y="190" width="992" height="733" key="SettingsEditor/0.30.1920.1050@0.30.1920.1050" timestamp="1582149889790" />
+    <state x="768" y="335" width="374" height="442" key="chooseDestDirectoryDialog" timestamp="1582149360974">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="768" y="335" width="374" height="442" key="chooseDestDirectoryDialog/0.30.1920.1050@0.30.1920.1050" timestamp="1582149360974" />
+    <state x="653" y="382" key="com.intellij.ide.util.TipDialog" timestamp="1582149905325">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="653" y="382" key="com.intellij.ide.util.TipDialog/0.30.1920.1050@0.30.1920.1050" timestamp="1582149905325" />
+  </component>
+</project>
